@@ -1,6 +1,6 @@
 {
 	"Name": "Pirate League",
-	"Version": 1794153636,
+	"Version": 1794154291,
 	"MaxPerkRepetition": 1,
 	"GlobalNotes": "Dramaturgia: não pode usar o item.\nWe-re gonna live 4ever: só pode contra tier S, A e contra Twins.\nUnbreakable pode contra Twins.\nMFT pode para Knight.",
 	"Tiers": [
@@ -9,6 +9,7 @@
 			"SurvivorIndvPerkBans": [
 				"306",
 				"0",
+				"285",
 				"5",
 				"52",
 				"258",
@@ -31,6 +32,7 @@
 				"33",
 				"248",
 				"41",
+				"108",
 				"303",
 				"268",
 				"46",
@@ -211,6 +213,7 @@
 		{
 			"Name": "A",
 			"SurvivorIndvPerkBans": [
+				"7",
 				"38",
 				"80",
 				"128"
@@ -234,6 +237,7 @@
 		{
 			"Name": "B",
 			"SurvivorIndvPerkBans": [
+				"7",
 				"34",
 				"38",
 				"57",
@@ -251,6 +255,7 @@
 		{
 			"Name": "C",
 			"SurvivorIndvPerkBans": [
+				"7",
 				"8",
 				"11",
 				"21",
@@ -279,6 +284,7 @@
 		{
 			"Name": "D",
 			"SurvivorIndvPerkBans": [
+				"7",
 				"8",
 				"11",
 				"21",
@@ -314,6 +320,7 @@
 			"Name": "E",
 			"SurvivorIndvPerkBans": [
 				"1",
+				"7",
 				"8",
 				"11",
 				"21",
@@ -338,6 +345,7 @@
 				"71",
 				"76",
 				"80",
+				"95",
 				"92",
 				"107",
 				"112",
